@@ -1,4 +1,0 @@
-syntax-highlight
-================
-
-Python, Bash
